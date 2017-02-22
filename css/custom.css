@@ -1,0 +1,44 @@
+a.active {
+    background: #000;
+}
+
+img {
+	max-width:100%;
+}
+#contactus {
+   min-height:500px;
+   background:gray;
+   color:#fff;
+}
+#youtube{
+   min-height:700px;
+   background:pink;
+}
+#aboutus {
+   min-height:500px;
+   background:#ccc;
+}
+.youtube_items {
+     min-height: 116px;
+    max-width: 60%;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 1px solid #fff;
+}
+.img_sec {
+  border-right:1px solid #fff;
+padding :15px 15px;
+    min-height: 116px;
+}
+.center_wrap {
+   border-right:1px solid #fff;
+padding :15px 15px;
+    min-height: 116px;
+}
+.btn_wrap {
+
+    min-height: 116px;
+}
+.btn_wrap .btn-primary  {
+    margin-top:15px;
+}
